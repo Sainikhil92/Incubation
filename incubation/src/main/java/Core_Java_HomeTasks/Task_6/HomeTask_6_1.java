@@ -21,14 +21,7 @@ public class HomeTask_6_1 {
         int loIdx = 0;
         int hiIdx = 0;
 
-//        for (int i = 0, j = n - 1; i < n && j >= 0; i++, j--) {
-//            if (arr[0] == arr[i])
-//                loIdx = i;
-//            if (arr[n - 1] == arr[j])
-//                hiIdx = j;
-//        }
 
-//    maxSpan([1, 2, 1, 1, 3]) → 4
         for(int i=0;i<n;i++){
             for(int j=n-1;j>=0;j--){
                 if (arr[0] == arr[i])
