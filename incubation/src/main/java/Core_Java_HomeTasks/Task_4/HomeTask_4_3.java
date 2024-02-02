@@ -2,6 +2,8 @@ package Core_Java_HomeTasks.Task_4;
 
 import java.util.*;
 
+import static Utilities.Utilities.log;
+
 public class HomeTask_4_3 {
 //    Strings:
 //1. write a program to Print duplicate characters from String
@@ -27,7 +29,7 @@ public class HomeTask_4_3 {
                 }
             }
         }
-        System.out.println("duplicate characters are " + finalSet);
+        log.info("duplicate characters are " + finalSet);
     }
 
     public static void rotataionString(String org_str, String rotat_str) {
@@ -36,11 +38,11 @@ public class HomeTask_4_3 {
                 String temp_str = rotat_str.substring(i)+rotat_str.substring(0, i) ;
                 System.out.println(temp_str);
                 if (rotat_str.equalsIgnoreCase(temp_str)) {
-                    System.out.println("both strings are equal when rotated");
+                    log.info("both strings are equal when rotated");
                 }
             }
         } else {
-            System.out.println("given strings are not rotation of each other");
+            log.warn("given strings are not rotation of each other");
         }
 
     }

@@ -1,0 +1,141 @@
+[INFO ] 2024-02-01 12:20:51.457 [main] HomeTask_1_1 - 5
+[INFO ] 2024-02-01 12:20:51.459 [main] HomeTask_1_1 - this is a msg
+[INFO ] 2024-02-01 12:23:58.554 [main] Utilities - 6.0
+[INFO ] 2024-02-01 12:34:27.547 [main] Utilities - Enter the number of rows: 
+[INFO ] 2024-02-01 12:34:31.989 [main] Utilities - Enter the starting value: 
+[INFO ] 2024-02-01 12:34:35.096 [main] Utilities - Using while loop:
+[INFO ] 2024-02-01 12:34:35.097 [main] Utilities - 
+Using for loop:
+[INFO ] 2024-02-01 12:34:35.097 [main] Utilities - 
+Using do-while loop:
+[INFO ] 2024-02-01 12:49:25.506 [main] Utilities - enter the length of array5
+[INFO ] 2024-02-01 12:50:03.277 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 12:50:07.230 [main] Utilities -  length of array5
+[INFO ] 2024-02-01 13:20:48.453 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:23:31.354 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:24:29.965 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:27:13.420 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:41:21.302 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 13:41:24.968 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:41:24.968 [main] Utilities - enter th length of 1  inner 
+[INFO ] 2024-02-01 13:41:32.460 [main] Utilities - enter th length of 2  inner 
+[INFO ] 2024-02-01 13:41:40.769 [main] Utilities - enter th length of 3  inner 
+[INFO ] 2024-02-01 13:42:16.856 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 13:43:00.074 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 13:43:02.166 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:43:02.166 [main] Utilities - enter th length of 1  inner 
+[INFO ] 2024-02-01 13:43:17.865 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:24.555 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:33.604 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:34.864 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:36.394 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:37.879 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:43:39.188 [main] Utilities - enter th length of 2  inner 
+[INFO ] 2024-02-01 13:43:48.147 [main] Utilities - enter the values in array of length : 2
+[INFO ] 2024-02-01 13:43:49.313 [main] Utilities - enter the values in array of length : 2
+[INFO ] 2024-02-01 13:43:50.526 [main] Utilities - enter th length of 3  inner 
+[INFO ] 2024-02-01 13:43:54.278 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:43:58.005 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:43:59.255 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:44:00.649 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:44:01.723 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:44:03.356 [main] Utilities - enter th length of 4  inner 
+[INFO ] 2024-02-01 13:44:08.456 [main] Utilities - enter the values in array of length : 1
+[INFO ] 2024-02-01 13:44:09.646 [main] Utilities - enter th length of 5  inner 
+[INFO ] 2024-02-01 13:44:15.626 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:44:16.437 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:44:18.245 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:44:19.280 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:44:20.275 [main] Utilities - enter the length of inputs
+[INFO ] 2024-02-01 13:57:32.284 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 13:57:35.257 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 13:57:35.257 [main] Utilities - enter th length of 1  inner 
+[INFO ] 2024-02-01 13:57:39.297 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:46.186 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:47.439 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:49.104 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:50.376 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:51.389 [main] Utilities - enter the values in array of length : 6
+[INFO ] 2024-02-01 13:57:53.370 [main] Utilities - enter th length of 2  inner 
+[INFO ] 2024-02-01 13:57:54.585 [main] Utilities - enter the values in array of length : 2
+[INFO ] 2024-02-01 13:57:55.178 [main] Utilities - enter the values in array of length : 2
+[INFO ] 2024-02-01 13:57:55.925 [main] Utilities - enter th length of 3  inner 
+[INFO ] 2024-02-01 13:57:58.736 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:58:00.233 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:58:01.566 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:58:02.780 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:58:03.759 [main] Utilities - enter the values in array of length : 5
+[INFO ] 2024-02-01 13:58:10.970 [main] Utilities - enter th length of 4  inner 
+[INFO ] 2024-02-01 13:58:13.699 [main] Utilities - enter the values in array of length : 1
+[INFO ] 2024-02-01 13:58:14.993 [main] Utilities - enter th length of 5  inner 
+[INFO ] 2024-02-01 13:58:20.566 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:58:21.207 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:58:22.421 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:58:24.377 [main] Utilities - enter the values in array of length : 4
+[INFO ] 2024-02-01 13:58:25.207 [main] Utilities - enter the length of inputs
+[INFO ] 2024-02-01 13:58:29.820 [main] Utilities - enter the value of line to search
+[INFO ] 2024-02-01 13:58:38.230 [main] Utilities - enter the value of postion
+[INFO ] 2024-02-01 13:58:40.060 [main] Utilities - value of ( 1 , 3 ) is 77
+[INFO ] 2024-02-01 13:58:40.061 [main] Utilities - enter the value of line to search
+[INFO ] 2024-02-01 13:58:50.224 [main] Utilities - enter the value of postion
+[INFO ] 2024-02-01 13:58:51.355 [main] Utilities - value of ( 3 , 4 ) is 36
+[INFO ] 2024-02-01 13:58:51.355 [main] Utilities - enter the value of line to search
+[INFO ] 2024-02-01 13:58:56.519 [main] Utilities - enter the value of postion
+[INFO ] 2024-02-01 13:58:59.123 [main] Utilities - value of ( 3 , 4 ) is 36
+[INFO ] 2024-02-01 13:58:59.124 [main] Utilities - enter the value of line to search
+[INFO ] 2024-02-01 13:59:04.014 [main] Utilities - enter the value of postion
+[INFO ] 2024-02-01 13:59:04.738 [main] Utilities - value of ( 3 , 1 ) is 4
+[INFO ] 2024-02-01 13:59:04.739 [main] Utilities - enter the value of line to search
+[INFO ] 2024-02-01 13:59:11.518 [main] Utilities - enter the value of postion
+[ERROR] 2024-02-01 13:59:12.403 [main] Utilities - ERROR
+[INFO ] 2024-02-01 14:14:30.506 [main] Utilities - enter length of the array
+[INFO ] 2024-02-01 14:14:33.141 [main] Utilities -  enter all arrays for length :5
+[INFO ] 2024-02-01 14:15:46.871 [main] Utilities - [[13, 23], [23, 24, 35], [1, 2, 2, 3], [1, 1, 2, 3], [3, 2, 4, 2]]
+[INFO ] 2024-02-01 14:16:01.297 [main] Utilities - Executing 1query 
+[ERROR] 2024-02-01 14:16:01.298 [main] Utilities - ERROR
+[INFO ] 2024-02-01 14:16:20.649 [main] Utilities - Executing 2query 
+[INFO ] 2024-02-01 14:16:20.654 [main] Utilities - value of ( 3 , 2 ) is 2
+[INFO ] 2024-02-01 17:21:01.515 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9]
+[INFO ] 2024-02-01 17:22:21.003 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9]
+[INFO ] 2024-02-01 17:24:55.653 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9]
+[INFO ] 2024-02-01 17:27:33.286 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9, Collections_HomeTask.Task_2.Player@65f095f8]
+[INFO ] 2024-02-01 17:28:20.568 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9]
+[INFO ] 2024-02-01 17:30:36.318 [main] Utilities - [Collections_HomeTask.Task_2.Player@3a6bb9bf, Collections_HomeTask.Task_2.Player@34f7cfd9]
+[INFO ] 2024-02-01 17:36:59.439 [main] Utilities - [Player{score=12, name='dsgdrgd'}, Player{score=45, name='ergedgeg45'}]
+[INFO ] 2024-02-01 17:39:30.805 [main] Utilities - [ name='amy ,  score=100,  name='david ,  score=100,  name='heraldo ,  score=50,  name='aakansha ,  score=75,  name='aleska ,  score=150]
+[INFO ] 2024-02-01 17:52:29.077 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 17:52:51.027 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 17:53:08.964 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 17:55:31.364 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 17:55:36.682 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:10:31.088 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:23:53.191 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:24:22.364 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:24:39.464 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:24:48.990 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:24:55.706 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:26:28.086 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:27:02.523 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:28:01.228 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:28:21.280 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:28:30.749 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:31:14.325 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:31:20.444 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:31:25.212 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:39:35.342 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:39:41.823 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:39:45.909 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:54:04.812 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:54:10.091 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:54:27.185 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:54:31.373 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 18:54:35.119 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:05:29.534 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:05:38.229 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:05:50.388 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:07:33.517 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:07:40.294 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:07:45.092 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:09:09.210 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:09:16.158 [main] Utilities - enter the name and number
+[INFO ] 2024-02-01 19:09:21.231 [main] Utilities - enter the name and number

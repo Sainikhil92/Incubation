@@ -1,5 +1,7 @@
 package Core_Java_HomeTasks.Task_1;
 
+import static Utilities.Utilities.log;
+
 public class HomeTask_1_2 {
 
     public double sumOfApple(double apple1, double apple2) {
@@ -10,7 +12,7 @@ public class HomeTask_1_2 {
 //   Daniel has 3.5 apples and Amber has 2.5 apples. How many apples do Daniel and Amber have together?
         double daniel_apple = 3.5;
         double amber_apples = 2.5;
-        System.out.print(new HomeTask_1_2().sumOfApple(daniel_apple, amber_apples));
+        log.info(new HomeTask_1_2().sumOfApple(daniel_apple, amber_apples));
     }
 
 }

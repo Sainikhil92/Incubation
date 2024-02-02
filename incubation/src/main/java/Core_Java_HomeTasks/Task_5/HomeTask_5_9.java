@@ -2,28 +2,14 @@ package Core_Java_HomeTasks.Task_5;
 
 public class HomeTask_5_9 {
 
-//    public static int maxBlock(String str) {
-//        int maxcount = 0;
-//        int currentcount = 1;
-//        for (int i = 1; i < str.length(); i++) {
-//            if (Character.toLowerCase(str.charAt(i)) == Character.toLowerCase(str.charAt(i - 1))) {
-//                currentcount++;
-//            } else {
-//                maxcount = Math.max(maxcount, currentcount);
-//                currentcount = 1;
-//            }
-//        }
-//
-//        return Math.max(maxcount, currentcount);
-//    }
 
         public static void main(String[] args) {
-//            System.out.println(maxBlock("hoopla"));               // Output: 2
-//            System.out.println(maxBlock("abbCCCddBBBxx"));        // Output: 3
-            System.out.println(maxBlock(""));                     // Output: 0
-            System.out.println(maxBlock("XX2222BBBbbXX2222"));   // Output: 4
-            System.out.println(maxBlock("XXBBBbbxxXXXX"));       // Output: 4
-            System.out.println(maxBlock("XXBBBbbxx"));           // Output: 3
+            System.out.println(maxBlock("hoopla"));
+            System.out.println(maxBlock("abbCCCddBBBxx"));
+            System.out.println(maxBlock(""));
+            System.out.println(maxBlock("XX2222BBBbbXX2222"));
+            System.out.println(maxBlock("XXBBBbbxxXXXX"));
+            System.out.println(maxBlock("XXBBBbbxx"));
         }
 
         public static int maxBlock(String str) {
